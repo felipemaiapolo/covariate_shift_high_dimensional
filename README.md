@@ -2,7 +2,7 @@
 
 This directory contains the following notebooks and folders:
 
-    1) Results Regression (notebook): generates the results for experiments involving regression trees;
+1) Results Regression (notebook): generates the results for experiments involving regression trees;
     2) Results Classification (notebook): generates the results for experiments involving classification trees;
     3) Outputs (notebook): generates table and plot from data generated in (1) and (2);
     4) Toy Model (notebook): generates plot for toy model;
